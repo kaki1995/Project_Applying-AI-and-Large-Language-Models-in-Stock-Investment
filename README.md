@@ -3,7 +3,7 @@
 This project applies AI and Machine Learning to develop a data-driven investment strategy for stock selection and portfolio optimization.
 Using Random Forest Classification and Regression models, we identified the top 30 out of 200 S&P 500 stocks with the highest potential returns, optimized portfolio weights via Sharpe ratio maximization, and simulated weekly rebalancing over a 9-week trading period.
 
-Key Features:
+*Key Features:*
 
 📊 10-year dataset of 200 S&P 500 stocks (Refinitiv & Yahoo Finance)
 
@@ -15,4 +15,5 @@ Key Features:
 
 🔍 Evaluation using Sharpe Ratio, Beta, Alpha, and OLS regression
 
-Tech stack: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+*Tech stack:*
+Python, Scikit-learn, Pandas, NumPy, Matplotlib
